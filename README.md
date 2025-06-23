@@ -35,7 +35,7 @@ Ground	Common Ground	All grounds must be connected together
 The robotic arm mechanical assembly is based on the ViaGasaFamido DIY Robot Arm Kit.
 
 You can follow this YouTube video for a similar robotic arm assembly:
-▶️ 4-DOF Robotic Arm Assembly Example (YouTube)
+▶️ 4-DOF Robotic Arm Assembly Example (YouTube) https://youtu.be/o89WD4vNm5U?si=OYVvbSFN99cBLCte
 
 📌 Note:
 The video is for assembly reference only. The arm in the video is similar, but the exact parts or appearance may slightly vary depending on the kit you purchased.
