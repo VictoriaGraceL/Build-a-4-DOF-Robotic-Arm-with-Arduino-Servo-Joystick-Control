@@ -58,6 +58,7 @@ The servos directly respond to joystick movements, providing real-time manual co
 🛑 Important:
 The simulation in Wokwi is for wiring demonstration only.
 The robotic arm will not fully function in the simulator because simulators like Wokwi cannot physically model a robotic arm’s real-world movement.
+https://wokwi.com/projects/434515124748469249
 
 🚀 Getting Started
 Assemble the robotic arm using the provided kit instructions or the YouTube reference video.
